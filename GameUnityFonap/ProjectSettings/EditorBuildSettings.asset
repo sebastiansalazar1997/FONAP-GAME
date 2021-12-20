@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/RegisterScene.unity
+    guid: e44103692e80b194e8b31e1719134d2b
+  - enabled: 1
+    path: Assets/Scenes/KidsMenuScene.unity
+    guid: 10acfb422bfa6784aa34419822712b12
+  - enabled: 1
+    path: Assets/Scenes/KidsGameScene.unity
+    guid: a5e83a94749b141a6a37c8f9851befc1
+  - enabled: 1
+    path: Assets/Scenes/AdultsMenuScene.unity
+    guid: 2f18bca2db2a08240be14cee376c041c
+  - enabled: 1
+    path: Assets/Scenes/AdultsGameScene.unity
+    guid: fd30eb5da928da24291735ca73197758
+  - enabled: 1
+    path: Assets/Scenes/TeensMenuScene.unity
+    guid: f00fa77682619de4382cec7eef13c1c3
+  - enabled: 1
+    path: Assets/Scenes/TeensGameScene.unity
+    guid: 72cbdf2ee162bfe4b8736f480b925b9b
+  - enabled: 1
+    path: Assets/Scenes/QuestScene.unity
+    guid: 43ebcb12fc74b4c1891b05f685d0e5db
+  - enabled: 0
+    path: Assets/Scenes/CreditsScene.unity
+    guid: 59779314da7154b158503a4df5272bfa
+  m_configObjects: {}
